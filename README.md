@@ -18,9 +18,9 @@
 			
 	Students:
 		1 They can register themselves and login themselves in the library from 
-      the student login page.
-    2 They can neither edit any information nor can they change any rules 
-       and regulations of the website.
+      		   the student login page.
+    		2 They can neither edit any information nor can they change any rules 
+                    and regulations of the website.
 			 
 	Technology Used: 
 	
