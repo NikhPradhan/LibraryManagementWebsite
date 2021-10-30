@@ -2,10 +2,10 @@
 
 
  Purpose:
-   1. The purposes of this application are as follows: 
-   2. The software is for the students those are willing to get library books for their 
+ 
+   1. The software is for the students those are willing to get library books for their 
        reference. 
-   3.  It provides following facilities to:
+   2.  It provides following facilities to:
    
 	Admin: 
 		1 Can enter details related to a particular book. 
