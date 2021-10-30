@@ -1,11 +1,12 @@
 # LibraryManagementWebsite
 
 
-I. Purpose:
- 	 1. The purposes of this application are as follows: 
+ Purpose:
+   1. The purposes of this application are as follows: 
    2. The software is for the students those are willing to get library books for their 
        reference. 
-   3. It provides following facilities to:
+   3.  It provides following facilities to:
+   
 	Admin: 
 		1 Can enter details related to a particular book. 
 		2 Can provide membership to students. 
